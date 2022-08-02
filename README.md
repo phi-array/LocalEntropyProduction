@@ -1,4 +1,4 @@
-# LocalEntropyProduction
+# Local Entropy Production Calculation
 
 Calculating local entropy production (EP) using the estimator from:
 
